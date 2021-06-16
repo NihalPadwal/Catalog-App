@@ -83,7 +83,7 @@ LoginPage
 
 |------|
 
-LoginPage(if Username adn Password is Blank)
+LoginPage(if Username and Password is Blank)
 
 
 
