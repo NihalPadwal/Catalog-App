@@ -34,11 +34,7 @@ https://www.mediafire.com/file/mxb2l5msnj8q3x0/app-debug.apk/file
 * Email : nihalpadwal@gmail.com
 
 
-## Getting Started
 
-This project uses Flutter 
-
-Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
 
 
 
@@ -259,6 +255,18 @@ Cart Page(Dark Mode)
 
 
 
+
+
+
+
+
+
+
+## Getting Started
+
+This project uses Flutter 
+
+Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
 
 
 
